@@ -121,6 +121,7 @@ Selain keduanya, ada juga **Case-Based Learning** yaitu belajar lewat analisis s
 #### Materi 3: Prompt Engineering serta Git & GitHub
  
 **Prompt Engineering**
+
 Prompt engineering adalah cara menyusun perintah (prompt) kepada AI. Prompt yang jelas dan berkonteks menghasilkan output AI yang lebih baik dibandingkan dengan prompt yang tidak jelas konteksnya.
 
  
@@ -164,8 +165,9 @@ GitHub adalah platform berbasis web untuk menyimpan repository Git secara online
 
  
 **Alur kerja Git**: file berpindah dari *working directory* ke *staging area*, lalu masuk ke *repository*.
- 
-**Alur kerja dasar di GitHub**
+
+ 
+**Alur kerja dasar di GitHub**:
 1. Membuat repository baru di GitHub.
 2. Menambahkan atau mengubah file.
 3. Melakukan commit dengan pesan yang jelas.
@@ -193,7 +195,7 @@ Menurut saya, Day 1 Proyek Workshop sangat bermanfaat, terutama bagi mahasiswa b
 
  
 
-### Dari sisi praktik, tugas membuat repository ini membuat saya paham cara memakai Git dan GitHub untuk mendokumentasikan kegiatan, padahal sebelumnya saya hanya punya akun tanpa tahu cara menggunakannya. Harapan saya, sesi berikutnya diisi lebih banyak praktik langsung, misalnya *branching* dan kolaborasi lewat *pull request*.
+Dari sisi praktik, tugas membuat repository ini membuat saya paham cara memakai Git dan GitHub untuk mendokumentasikan kegiatan, padahal sebelumnya saya hanya punya akun tanpa tahu cara menggunakannya. Harapan saya, sesi berikutnya diisi lebih banyak praktik langsung, misalnya *branching* dan kolaborasi lewat *pull request*.
  
 ---
  
