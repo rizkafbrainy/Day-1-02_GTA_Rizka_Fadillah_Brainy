@@ -122,8 +122,9 @@ Selain keduanya, ada juga **Case-Based Learning** yaitu belajar lewat analisis s
  
 **Prompt Engineering**
 Prompt engineering adalah cara menyusun perintah (prompt) kepada AI. Prompt yang jelas dan berkonteks menghasilkan output AI yang lebih baik dibandingkan dengan prompt yang tidak jelas konteksnya.
- 
-### Struktur prompt yang baik (**RTCF**):
+
+ 
+**Struktur prompt yang baik (**RTCF**):**
 | Unsur | Fungsi |
 |---|---|
 | Role | Peran yang diminta dari AI |
