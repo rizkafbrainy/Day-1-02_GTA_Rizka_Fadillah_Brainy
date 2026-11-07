@@ -1,4 +1,4 @@
-# Day-1-GTA_Rizka_Fadillah_Brainy
+# Day-1-02_GTA_Rizka_Fadillah_Brainy
 
 ## Identitas 
 - Nama Lengkap: Rizka Fadillah Brainy
@@ -191,12 +191,15 @@ GitHub adalah platform berbasis web untuk menyimpan repository Git secara online
 
 
 ### 3. Pendapat Pribadi tentang Day 1 Proyek Workshop
-Menurut saya, Day 1 Proyek Workshop sangat bermanfaat, terutama bagi mahasiswa baru seperti saya, karena materinya langsung berkaitan dengan kebutuhan mahasiswa TIK, mulai dari pengenalan jurusan, program kampus, hingga keterampilan praktis seperti prompt engineering dan GitHub. Materi Kurikulum Merdeka membuka wawasan bahwa kuliah tidak hanya di dalam kelas: ada MBKM dan MSIB yang memungkinkan kita magang atau belajar langsung dari industri dengan SKS yang diakui. Ini membuat saya mulai memikirkan kegiatan apa yang ingin saya ambil nanti, terutama yang sejalan dengan bidang Rekayasa Keamanan Siber. Selain itu, workshop tentang Prompt Engineering dan Git & GitHub menambah wawasan pengetahuan saya dalam lingkup jurusan TIK sekaligus menambah skill saya karena sepertinya akan dipakai terus di masa yang akan datang.
+Menurut saya, Day 1 Proyek Workshop sangat bermanfaat, terutama bagi mahasiswa baru seperti saya, karena materinya langsung berkaitan dengan kebutuhan mahasiswa TIK, mulai dari pengenalan jurusan, program kampus, hingga keterampilan praktis seperti prompt engineering dan GitHub. Materi Kurikulum Merdeka membuka wawasan bahwa kuliah tidak hanya di dalam kelas: ada MBKM dan MSIB yang memungkinkan kita magang atau belajar langsung dari industri dengan SKS yang diakui. Ini membuat saya mulai memikirkan kegiatan apa yang ingin saya ambil nanti, terutama yang sejalan dengan bidang Rekayasa Keamanan Siber. Selain itu, workshop tentang Prompt Engineering dan Git & GitHub menambah wawasan pengetahuan saya dalam lingkup jurusan TIK sekaligus menambah skill saya karena sepertinya akan dipakai terus di masa yang akan datang. 
 
- 
+
 
 Dari sisi praktik, tugas membuat repository ini membuat saya paham cara memakai Git dan GitHub untuk mendokumentasikan kegiatan, padahal sebelumnya saya hanya punya akun tanpa tahu cara menggunakannya. Harapan saya, sesi berikutnya diisi lebih banyak praktik langsung, misalnya *branching* dan kolaborasi lewat *pull request*.
- 
+
+
+
+ 
 ---
  
 ## Struktur Repository
