@@ -18,7 +18,7 @@ Repository ini berisi dokumentasi kegiatan Day 1 Proyek Workshop yang diselengga
 | Keterangan | Detail |
 |---|---|
 | Kegiatan | Day 1 Proyek Workshop |
-| Materi | (1) Profil Jurusan TIk; (2) Kurikulum Merdeka di Perguruan Tinggi; (3) Prompt Engineering dan Git & GitHub | 
+| Materi | (1) Profil Jurusan TIK; (2) Kurikulum Merdeka di Perguruan Tinggi; (3) Prompt Engineering dan Git & GitHub | 
 | Penyelenggara | EXPECTIK PNJ (HIMATIK PNJ) |
 | Tanggal | 7 November 2026 |
 
@@ -30,7 +30,7 @@ Repository ini berisi dokumentasi kegiatan Day 1 Proyek Workshop yang diselengga
 
 #### Materi 1: Profil Jurusan TIK
 
-Jurusan Teknik Informatika dan Komputer (TIK) memiliki visi misi untuk menjadi jurusan bertaraf internasional.
+Jurusan Teknik Informatika dan Komputer (TIK) memiliki visi menjadi jurusan bertaraf internasional.
 
 **3 misi jurusan**
 1. Pendidikan vokasi.
@@ -41,7 +41,7 @@ Jurusan Teknik Informatika dan Komputer (TIK) memiliki visi misi untuk menjadi j
 1. Penguatan internal
 2. Kerjasama dengan berbagai industri.
 3. Pengembangan Sumber Daya Manusia (SDM)
-4. Sarana & Prasana (SarPras)
+4. Sarana & Prasarana (Sarpras)
 5. Inkubator bisnis.
 
 **Mitra Jurusan**
@@ -61,20 +61,20 @@ Kurikulum Merdeka di perguruan tinggi diwujudkan melalui kebijakan **Merdeka Bel
 
 Memiliki Tujuan Utama, yaitu:
 - Menghasilkan lulusan yang siap kerja dan relevan dengan kebutuhan industri.
-- Pembelajaran yang fleksibel (bisa lakukan dimana saja), tidak hanya di dalam kelas.
+- Pembelajaran yang fleksibel (bisa dilakukan di mana saja), tidak hanya di dalam kelas.
 - Kegiatan di luar kampus diakui dan dikonversi menjadi SKS.
 
 **Angka Penting MBKM**
-| Ketentuan | JUmlah |
+| Ketentuan | Jumlah |
 |---|---|
-| Hak belajar di luar program studi asal | HIngga 2 Semester |
+| Hak belajar di luar program studi asal | Hingga 2 Semester |
 | SKS yang dapat diakui per semester kegiatan di luar prodi | 20 SKS |
-Bentuk kegiatan pembelajaran yang dapat dipilih | 8 bentuk |
+| Bentuk kegiatan pembelajaran yang dapat dipilih | 8 bentuk |
 
 **Dua agenda penting: MBKM dan MSIB**
 | | MBKM (payung kebijakan) | MSIB (Program unggulan) | 
 |---|---|---|
-| Inti | Hak belajar hingga 2 semester di luar program studi | Magang dan Studi Independen Bersetifikat | 
+| Inti | Hak belajar hingga 2 semester di luar program studi | Magang dan Studi Independen Bersertifikat | 
 | Ciri | 8 bentuk kegiatan di luar kelas lalu dikonversi menjadi 20 SKS oleh program studi | Dijalankan bersama mitra industri dan organisasi terbaik, berlangsung 1 semester dengan pengalaman belajar terstruktur |
 | Cakupan | Berlaku untuk seluruh perguruan tinggi, termasuk Politeknik Negeri Jakarta (PNJ) | Peserta memperoleh sertifikat |
 
@@ -96,28 +96,25 @@ Pada ilustrasi program D4 (8 Semester), mahasiswa kuliah di program studi pada s
 - 1 semester di luar kampus seperti magang di industri.
 - Konversi SKS ditetapkan program studi bersama dosen pembimbing.
 
-**MSIB: Magang dan Studi Independen Bersetifikat**
-| Magang Bersetifikat | Studi Independen Bersetifikat |
+**MSIB: Magang dan Studi Independen Bersertifikat**
+| Magang Bersertifikat | Studi Independen Bersertifikat |
 |---|---|
-| Belajar sambil bekerja di mitra | Belajar kompetensi spesifik dari pakar | 
-| Program magang dipercepat dengan pengalaman belajar yang dirancang baik |
-| Pembelajaran berbasis tantangan nyata yang dihadapi mitra industri | 
-| Mengerjakan tugas dan proyek nyata di perusahaan atau organisasi mitra | Bentuknya short course, bootcamp, atau kelas darinf terbuka (MOOC) |
+| Belajar sambil bekerja di mitra | Belajar kompetensi spesifik dari pakar |
+| Program magang dipercepat dengan pengalaman belajar yang dirancang baik | Pembelajaran berbasis tantangan nyata yang dihadapi mitra industri |
+| Mengerjakan tugas dan proyek nyata di perusahaan atau organisasi mitra | Bentuknya short course, bootcamp, atau kelas daring terbuka (MOOC) |
 | Dibimbing mentor dari dunia industri | Dilanjutkan proyek atau studi kasus bersama peserta dan mitra |
 
 Persamaan keduanya: dikonversi menjadi 20 SKS, memperoleh sertifikat, dan ada peluang rekomendasi ke mitra.
 
-**MEtode pembelajaran: Project-Based, Problem-Based, danCase-Based Learning** 
-| Project-Based Learning (PjBKL) | Problem-BasedLearning (PBL) |
+**Metode pembelajaran: Project-Based, Problem-Based, dan Case-Based Learning**
+| Project-Based Learning (PjBL) | Problem-Based Learning (PBL) |
 |---|---|
-|Belajar lewat karya nyata | Belajar lewat Pemecah masalah |
-| Mahasiswa mengerjakan proyek nyata dalam batas waktu tertentu, umumnya secara tim/berkelompok |
-Pembelajaran dimulai dari masalah nyata yang tidak memiliki jawaban tunggal |
-| Hasil berupa produk, prototipe, aplikasi, atau laporan yang dipresentasikan |
-Mahasiswa menganalisis, mencari informasi, dan merumuskan solusi |
-|Cocok untuk praktik bokasi, misalnya merancang bangun alat atau layanan | Dosen berperan sebagai fasilitator, bukan sebagai satu-satunya sumber belajar mahasiswa |
+| Belajar lewat karya nyata | Belajar lewat pemecahan masalah |
+| Mahasiswa mengerjakan proyek nyata dalam batas waktu tertentu, umumnya secara tim/berkelompok | Pembelajaran dimulai dari masalah nyata yang tidak memiliki jawaban tunggal |
+| Hasil berupa produk, prototipe, aplikasi, atau laporan yang dipresentasikan | Mahasiswa menganalisis, mencari informasi, dan merumuskan solusi |
+| Cocok untuk praktik vokasi, misalnya merancang bangun alat atau layanan | Dosen berperan sebagai fasilitator, bukan sebagai satu-satunya sumber belajar mahasiswa |
 
-Kesamaan: Berbasis masalah nyata, kerjasama tim, dan meelatih berpikir kritis.
+Kesamaan: Berbasis masalah nyata, kerjasama tim, dan melatih berpikir kritis.
 
 Selain keduanya, ada juga **Case-Based Learning** yaitu belajar lewat analisis suatu kasus yang sudah pernah ada. 
 
@@ -126,25 +123,33 @@ Selain keduanya, ada juga **Case-Based Learning** yaitu belajar lewat analisis s
 **Prompt Engineering**
 Prompt engineering adalah cara menyusun perintah (prompt) kepada AI. Prompt yang jelas dan berkonteks menghasilkan output AI yang lebih baik dibandingkan dengan prompt yang tidak jelas konteksnya.
  
-Struktur prompt yang baik (**RTCF**):
+### Struktur prompt yang baik (**RTCF**):
 | Unsur | Fungsi |
 |---|---|
 | Role | Peran yang diminta dari AI |
 | Task | Tugas yang harus dikerjakan |
 | Context | Konteks atau latar belakang tugas |
 | Format | Bentuk keluaran yang diinginkan |
- 
+
+ 
 Manfaatnya: performa AI lebih baik, bias dan respons ofensif berkurang, hasil lebih terkontrol dan dapat diprediksi, serta pengalaman pengguna lebih baik.
+
  
 **Git vs GitHub**
+
 Git adalah *version control* lokal yang melacak perubahan file, sedangkan GitHub adalah platform online untuk menyimpan repository Git dan berkolaborasi.
- 
-**Apa itu Git?**
+
+ 
+**Git**
+
 Git adalah *version control system* (sistem kontrol versi) yang mencatat setiap perubahan pada file proyek. Dengan Git, kita bisa melihat riwayat perubahan, kembali ke versi sebelumnya, dan bekerja bersama orang lain tanpa saling menimpa pekerjaan.
- 
-**Apa itu GitHub?**
+
+ 
+**GitHub**
+
 GitHub adalah platform berbasis web untuk menyimpan repository Git secara online. GitHub memudahkan kolaborasi, berbagi proyek, dan menjadi portofolio bagi pengembang.
- 
+
+ 
 **Istilah penting**
 | Istilah | Arti |
 |---|---|
@@ -155,7 +160,8 @@ GitHub adalah platform berbasis web untuk menyimpan repository Git secara online
 | Push | Mengirim commit dari komputer lokal ke GitHub |
 | Pull | Mengambil perubahan terbaru dari GitHub ke komputer lokal |
 | README.md | Berkas penjelasan utama sebuah repository |
- 
+
+ 
 **Alur kerja Git**: file berpindah dari *working directory* ke *staging area*, lalu masuk ke *repository*.
  
 **Alur kerja dasar di GitHub**
@@ -190,10 +196,8 @@ Dari sisi praktik, tugas membuat repository ini membuat saya paham cara memakai 
 ## Struktur Repository
 ```
 Day-1-GTA_Rizka_Fadillah_Brainy/
-├── README.md
-└── dokumentasi/        (opsional: foto dan screenshot workshop)
+└── README.md
 ```
  
 ## Penutup
 Dokumentasi ini dibuat sebagai pemenuhan tugas Day 1 Proyek Workshop HIMATIK PNJ.
- 
